@@ -3,6 +3,4 @@
 
 A Very Nice Haar Cascade for Face detections
 
-~ It Can also detect Smile !, An Another Frame that Can detect Edges 
-
-
+- It Can also detect Smile!, An Another Frame that Can detect Edges 
